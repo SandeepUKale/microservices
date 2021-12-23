@@ -1,0 +1,1 @@
+create table exchange_value(id number(10),currency_from varchar(10),currency_to varchar(10),conversion_multiple number(10),port number(10));
